@@ -20,7 +20,7 @@ Domain-Search, bir web sitesindeki JavaScript dosyalarını analiz ederek alt al
 ## Kurulum
 1. Bu projeyi klonlayın:
    ```bash
-   git clone https://github.com/enescdq/domain-Search.git
+   git clone https://github.com/enesdq/domain-Search.git
    cd Domain-Search
    ```
 2. Gerekli Python kütüphanelerini yükleyin:
